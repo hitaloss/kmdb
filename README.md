@@ -59,5 +59,5 @@ pip freeze -r requirements.txt
   **(terminal powershell)**
 
 ```
-  python manage.py migrate
+  ./manage.py migrate
 ```
