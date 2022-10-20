@@ -61,3 +61,7 @@ pip freeze -r requirements.txt
 ```
   ./manage.py migrate
 ```
+
+# Diagrama de relacionamento:
+
+**https://drive.google.com/file/d/1m8NnLGtH2RdXgW30Js84ABrpp1_AwsGk/view?usp=drivesdk**
