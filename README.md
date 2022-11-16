@@ -27,7 +27,7 @@ python -m venv venv
   **(terminal powershell)**
 
 ```
-  ./venv/Scripts/activate
+  .\venv\Scripts\activate
 ```
 
 #
